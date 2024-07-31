@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 31 17:01:54 2024
-
-@author: Dr. Sutapa B. Neogi
-"""
-
 !pip install qiskit[visualization]==1.0.2
 !pip install qiskit_aer
 !pip install qiskit_ibm_runtime
